@@ -16,7 +16,7 @@ What does this app do?
 
 
 Extra information:
-* Login as admin typing with ID: 1234567890
+* Login as admin with the following ID: 1234567890
 * Backend built with CouchDB and Parse.com.
 * Best experienced on an iPhone 5 running iOS 7.
 * Re-adding the parse library might be needed for building this project in Xcode.
